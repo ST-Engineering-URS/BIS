@@ -1,0 +1,10 @@
+# Elixir build and dependency artifacts
+_build/
+deps/
+cover/
+*.beam
+.elixir_ls/
+
+# Editor and operating-system artifacts
+.DS_Store
+*.swp
